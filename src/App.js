@@ -35,7 +35,7 @@ const App = () => {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Router>
+      <Router basename="/react-with-docker">
         <Button
           variant="contained"
           onClick={toggleTheme}
