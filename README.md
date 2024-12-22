@@ -1,6 +1,7 @@
 # Rick and Morty Character Viewer
 
 This React app fetches data from the [Rick and Morty API](https://rickandmortyapi.com/) and displays the characters in a **grid** or **list** view. Users can toggle between a **dark** and **light** theme and view detailed information about each character.
+[Demo Site](https://genuinecode-git.github.io/react-with-docker/)
 
 ## Features
 - **Grid and List View**: Toggle between grid and list view using buttons.
